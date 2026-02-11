@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit>=1.30.0
+anthropic>=0.18.0
+
+# Text-to-Speech
+gtts>=2.5.0  # Free Google TTS
+openai>=1.12.0  # Optional: OpenAI TTS
+elevenlabs>=0.2.0  # Optional: ElevenLabs TTS
+
+# Video generation
+moviepy>=1.0.3
+pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
